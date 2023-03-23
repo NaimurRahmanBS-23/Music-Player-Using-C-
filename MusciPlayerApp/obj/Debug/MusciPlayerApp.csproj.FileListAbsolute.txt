@@ -1,0 +1,16 @@
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\bin\Debug\MusciPlayerApp.exe.config
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\bin\Debug\MusciPlayerApp.exe
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\bin\Debug\MusciPlayerApp.pdb
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\obj\Debug\MusciPlayerApp.csproj.AssemblyReference.cache
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\obj\Debug\MusciPlayerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\obj\Debug\MusciPlayerApp.csproj.ResolveComReference.cache
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\obj\Debug\MusciPlayerApp.Form1.resources
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\obj\Debug\MusciPlayerApp.Properties.Resources.resources
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\obj\Debug\MusciPlayerApp.csproj.GenerateResource.cache
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\obj\Debug\MusciPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\obj\Debug\MusciPlayerApp.exe
+C:\Users\bs780\source\repos\MusciPlayerApp\MusciPlayerApp\obj\Debug\MusciPlayerApp.pdb
